@@ -1,0 +1,96 @@
+==================================================
+Filename          : bypass-paywalls-chrome-clean-4.2.3.0.crx
+SHA-256           : 296c68e84992844524d9359508dfdcddf8e6ac696d32d8009c175255bd15ee9f
+Modified Time     : 12-10-2025 19:19:29
+File Size         : 274.218
+Extension         : crx
+==================================================
+
+==================================================
+Filename          : bypass-paywalls-chrome-clean-4.2.4.0.crx
+SHA-256           : e0e301434323e89a67466bdbe255b1de017e0bd4ec55a1f076768e2f0f6abcdd
+Modified Time     : 26-10-2025 19:38:50
+File Size         : 277.945
+Extension         : crx
+==================================================
+
+==================================================
+Filename          : bypass-paywalls-chrome-clean-4.2.4.6.crx
+SHA-256           : 1b2703990933b96cf21a22664de5a7befe0a23772d122c5b646954059d4fc8ea
+Modified Time     : 11-11-2025 07:05:57
+File Size         : 278.757
+Extension         : crx
+==================================================
+
+==================================================
+Filename          : bypass-paywalls-chrome-clean-android-custom.crx
+SHA-256           : 603782e81c625d56fee342e1f4067296b8f3cf4bdf7df2c01440379c4e21c44c
+Modified Time     : 31-8-2025 19:24:46
+File Size         : 261.509
+Extension         : crx
+==================================================
+
+==================================================
+Filename          : bypass-paywalls-chrome-clean-latest.crx
+SHA-256           : 1b2703990933b96cf21a22664de5a7befe0a23772d122c5b646954059d4fc8ea
+Modified Time     : 11-11-2025 07:05:57
+File Size         : 278.757
+Extension         : crx
+==================================================
+
+==================================================
+Filename          : bypass-paywalls-chrome-clean-master.zip
+SHA-256           : bd10cb1eaeb33ebdd5b47612e400752ad5b3ba699799637bcca74214d6bfc59b
+Modified Time     : 14-11-2025 06:37:22
+File Size         : 287.991
+Extension         : zip
+==================================================
+
+==================================================
+Filename          : bypass-paywalls-firefox-clean-master.zip
+SHA-256           : 1be779764d10fce2670ef9c44c8321aeb25126a2f08fcfa24400b91426e1f9cd
+Modified Time     : 14-11-2025 06:37:30
+File Size         : 284.813
+Extension         : zip
+==================================================
+
+==================================================
+Filename          : bypass_paywalls_clean-4.2.3.0-custom.xpi
+SHA-256           : b721d8e09952ad6f79b138cf3420df9dadefd49906c896dd0464229c81932911
+Modified Time     : 12-10-2025 19:21:30
+File Size         : 280.688
+Extension         : xpi
+==================================================
+
+==================================================
+Filename          : bypass_paywalls_clean-4.2.3.0.xpi
+SHA-256           : e4814865040a2fc450ba3f02f4e48aab22f9c0261c98ebb7844893576ea3d439
+Modified Time     : 15-10-2025 17:46:54
+File Size         : 286.664
+Extension         : xpi
+==================================================
+
+==================================================
+Filename          : bypass_paywalls_clean-4.2.4.7-custom.xpi
+SHA-256           : 9d54c002c5c85442c22672c002ee5405ddbc0704f81ce04ba2742efeb1022427
+Modified Time     : 14-11-2025 13:27:15
+File Size         : 285.432
+Extension         : xpi
+==================================================
+
+==================================================
+Filename          : bypass_paywalls_clean-4.2.4.7.xpi
+SHA-256           : a79bd97bdb37aac5a5342f87de05be65be3502cb0a478d760df1fe20c713335f
+Modified Time     : 14-11-2025 13:24:20
+File Size         : 291.492
+Extension         : xpi
+==================================================
+
+==================================================
+Filename          : bypass_paywalls_clean-latest.xpi
+SHA-256           : a79bd97bdb37aac5a5342f87de05be65be3502cb0a478d760df1fe20c713335f
+Modified Time     : 14-11-2025 13:24:20
+File Size         : 291.492
+Extension         : xpi
+==================================================
+
