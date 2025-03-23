@@ -1,0 +1,112 @@
+==================================================
+Filename          : bypass-paywalls-chrome-clean-4.2.5.0.crx
+SHA-256           : 63458f78ae0b7f3d34e14b5465c0ad40d5e2653679dbe3afdd602d15651fbce2
+Modified Time     : 16-11-2025 21:14:34
+File Size         : 279.149
+Extension         : crx
+==================================================
+
+==================================================
+Filename          : bypass-paywalls-chrome-clean-4.2.6.0.crx
+SHA-256           : 0f8a2d462a8750d7cfc5be713297a6e4bd84fd6981d2f5ead66444954f117309
+Modified Time     : 30-11-2025 20:26:39
+File Size         : 280.299
+Extension         : crx
+==================================================
+
+==================================================
+Filename          : bypass-paywalls-chrome-clean-4.2.6.6.crx
+SHA-256           : e8cd764e51138e4ce03547e040c862e9834c625d712726c52cd7235480896854
+Modified Time     : 10-12-2025 09:39:55
+File Size         : 281.215
+Extension         : crx
+==================================================
+
+==================================================
+Filename          : bypass-paywalls-chrome-clean-android-custom.crx
+SHA-256           : 603782e81c625d56fee342e1f4067296b8f3cf4bdf7df2c01440379c4e21c44c
+Modified Time     : 31-8-2025 19:24:46
+File Size         : 261.509
+Extension         : crx
+==================================================
+
+==================================================
+Filename          : bypass-paywalls-chrome-clean-latest.crx
+SHA-256           : e8cd764e51138e4ce03547e040c862e9834c625d712726c52cd7235480896854
+Modified Time     : 10-12-2025 09:39:55
+File Size         : 281.215
+Extension         : crx
+==================================================
+
+==================================================
+Filename          : bypass-paywalls-chrome-clean-master.zip
+SHA-256           : 286aecf94802c8e36cdb6ae0112faa9c16e0d38566ec90c76faac17a83ff2090
+Modified Time     : 13-12-2025 08:23:10
+File Size         : 290.037
+Extension         : zip
+==================================================
+
+==================================================
+Filename          : bypass-paywalls-firefox-clean-master.zip
+SHA-256           : ea4117b2e8892cba2dcc265720dc3dc8b5e8ab2a013b5cc68418a2ae5c78a6d1
+Modified Time     : 13-12-2025 08:23:19
+File Size         : 286.902
+Extension         : zip
+==================================================
+
+==================================================
+Filename          : bypass_paywalls_clean-4.2.5.0-custom.xpi
+SHA-256           : 12a46ae0275943bfd1408316958fe375fd2d1e221546d0224cbe827d0aca5d4a
+Modified Time     : 16-11-2025 21:21:15
+File Size         : 285.864
+Extension         : xpi
+==================================================
+
+==================================================
+Filename          : bypass_paywalls_clean-4.2.5.0.xpi
+SHA-256           : a37beccc2aae5e476f431ae9dc8833c53650916bc5ef783b219547c60612efde
+Modified Time     : 20-11-2025 15:58:22
+File Size         : 291.927
+Extension         : xpi
+==================================================
+
+==================================================
+Filename          : bypass_paywalls_clean-4.2.6.0-custom.xpi
+SHA-256           : ee29d77a0c79aa02cc9c29ad855bbade61b19ab78090af2d47887e8d63399b83
+Modified Time     : 30-11-2025 20:26:26
+File Size         : 287.055
+Extension         : xpi
+==================================================
+
+==================================================
+Filename          : bypass_paywalls_clean-4.2.6.0.xpi
+SHA-256           : 3678dada8b59331272c6e1910579a78d8cefa4fb617a0c2b4ac8f7ff9b78a588
+Modified Time     : 3-12-2025 15:27:24
+File Size         : 293.125
+Extension         : xpi
+==================================================
+
+==================================================
+Filename          : bypass_paywalls_clean-4.2.6.6-custom.xpi
+SHA-256           : aa87059bb002a266c1913f8f234fc9600c5bc2a0d90d47f128a888a05ee18e8f
+Modified Time     : 10-12-2025 09:41:51
+File Size         : 288.041
+Extension         : xpi
+==================================================
+
+==================================================
+Filename          : bypass_paywalls_clean-4.2.6.6.xpi
+SHA-256           : 5abacbd81c87e838fe00197635058456da3f9afbc58680d4b158701c78b1a090
+Modified Time     : 10-12-2025 09:38:37
+File Size         : 294.140
+Extension         : xpi
+==================================================
+
+==================================================
+Filename          : bypass_paywalls_clean-latest.xpi
+SHA-256           : 5abacbd81c87e838fe00197635058456da3f9afbc58680d4b158701c78b1a090
+Modified Time     : 10-12-2025 09:38:37
+File Size         : 294.140
+Extension         : xpi
+==================================================
+
